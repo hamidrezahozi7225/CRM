@@ -1,0 +1,11 @@
+.container {
+  margin: 50px 30px;
+  display: flex;
+  justify-content: space-around;
+}
+.container li {
+  margin: 15px 0;
+}
+.container span {
+  color: rgb(99, 99, 248);
+}

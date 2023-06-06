@@ -1,0 +1,29 @@
+.container {
+  width: 100%;
+}
+.container h1 {
+  margin: 30px 30px 0;
+}
+.btnEdit {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 10px 0;
+}
+.btnEdit button {
+  width: 500px;
+  height: 35px;
+  border-radius: 8px;
+}
+.save {
+  background-color: azure;
+  color: black;
+}
+.btnEdit button:hover {
+  cursor: pointer;
+  background-color: inherit;
+  color: white;
+}
+.cancel {
+  background-color: brown;
+}
